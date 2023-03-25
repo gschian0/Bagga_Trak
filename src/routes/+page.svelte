@@ -5,8 +5,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Bagga Trak</title>
+	<meta name="description" content="Bagga Trak Music" />
 </svelte:head>
 
 <section>
