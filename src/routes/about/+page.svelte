@@ -19,7 +19,7 @@
 	</p>
 
 	<p>
-		To Send Money in REAL TIME to support Bagga Track and his mission <a href="/sverdle">Click this link to CASH APP</a> 
+		To Send Money in REAL TIME to support Bagga Track and his mission <a href="https://cash.app/$Bagga15/5">Click this link to CASH APP</a> 
 		support starts at 1 dollar. :)
 	</p>
 </div>
